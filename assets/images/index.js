@@ -1,0 +1,10 @@
+export { default as LogoImage } from './logo.png';
+export { default as DrawerImage } from './drawer.png';
+export { default as TvImage } from './video_image.png';
+export { default as PubImage } from './pub.png';
+export { default as ImageImage } from './image.png';
+export { default as SportImage } from './sport.png';
+export { default as CultureImage } from './culture.png';
+export { default as MathImage } from './math.png';
+export { default as BackImage } from './back.png';
+export { default as VideoImage } from './video.png';
